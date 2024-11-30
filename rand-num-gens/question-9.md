@@ -10,3 +10,7 @@ $\left[k, \, m\right]$:
    выделением целой части из произведения каждого $U_i$ на $d = m - k + 1$ и
    добавлением $k$: $Y_i = \left\lfloor d \cdot U_i \right\rfloor + k$. Значения
    $Y_i$ изменяются от $k$ до $m$ включительно.
+
+<center>
+<img src="images/gen-9.png" alt="example" width="400">
+</center>

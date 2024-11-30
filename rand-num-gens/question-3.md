@@ -68,3 +68,7 @@ $F_X\left(x\right) = \int\limits_{-\infty}^x p_x\left(x\right) \, \mathrm{d}x$.
 > Это замечание, в частности, касается нормального закона распределения.
 > Вычисление обратной функции для него достаточно трудоёмко и затратно по
 > времени.
+
+<center>
+<img src="images/gen-random-discr.png" alt="Improved example" width="400">
+</center>

@@ -58,3 +58,7 @@ $F\left(x\right)$, которую пересекает горизонталь о
 3. Если $U_i \in \left[p_1+\ldots+p_{k-1}, \, p_1+\ldots+p_{k-1}+p_k\right)$,
    т.е. $U_i$ попадает в $k$-й интервал, то $i$-е значение случайной величины
    равно $x_k$.
+
+<center>
+<img src="images/gen-random-discr.png" alt="Improved example" width="400">
+</center>

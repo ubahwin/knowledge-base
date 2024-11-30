@@ -22,3 +22,7 @@ $x = -\upmu \cdot \ln{\left(1 - y\right)}$. Следовательно, случ
 $X = -\upmu \cdot \ln{\left(1 - U\right)}$ будет распределена по показательному
 закону. Так как $1 - U$ имеет такое же распределение, что и $U$, для генерации
 используется соотношение $X = -\upmu \cdot \ln{U}$.
+
+<center>
+<img src="images/gen-15.png" alt="example" width="400">
+</center>

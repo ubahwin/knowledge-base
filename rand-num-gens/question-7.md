@@ -55,3 +55,7 @@ $\left[0, \, 1\right)$ в $\left[\alpha, \, \beta\right]$ равна $\beta - \a
 > $p = \dfrac{1}{3}$.
 
 <!-- TODO: предлагаемые для чего? -->
+
+<center>
+<img src="images/gen-7.png" alt="example" width="400">
+</center>

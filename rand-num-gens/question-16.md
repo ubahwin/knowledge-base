@@ -50,3 +50,7 @@ $$Y_n = \dfrac{U_1 + U_2 + \ldots + U_{12} - \dfrac{1}{2} \cdot 12}{\sqrt{\dfrac
    $\left[0, \, 1\right)$ чисел $U_1, U_2, \ldots, U_{12}$.
 2. $X = U_1 + U_2 + \ldots + U_{12} - 6$ — нормированная нормально
    распределённая случайная величина.
+
+<center>
+<img src="images/gen-16.png" alt="example" width="400">
+</center>

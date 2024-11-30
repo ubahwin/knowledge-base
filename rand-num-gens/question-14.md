@@ -23,3 +23,7 @@ $\dfrac{x-a}{b-a} \geqslant 1$.
 Эти соотношения показывают, что функция распределения $X_i$ — это функция
 распределения равномерной в $\left[a, \, b\right)$ случайной величины:
 $F_{X_i} = \mathrm{U_{a, \, b}}\left(x\right)$.
+
+<center>
+<img src="images/gen-14.png" alt="example" width="400">
+</center>
